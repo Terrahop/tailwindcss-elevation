@@ -41,7 +41,7 @@
     "hex-rgb": "^4.1.0"
   },
   "peerDependencies": {
-    "tailwindcss": "^2.0.1"
+    "tailwindcss": "^3.0.13"
   },
   "husky": {
     "hooks": {
